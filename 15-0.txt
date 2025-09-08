@@ -8,7 +8,7 @@
                                THE WHALE.
 
                                    BY
-                             HERMAN MELVILLE
+                             HERMAN MELVILLE,
 
                                 AUTHOR OF
           “TYPEE,” “OMOO,” “REDBURN,” “MARDI,” “WHITE-JACKET.”
@@ -36,7 +36,7 @@
 
                                 CONTENTS.
 
-          Chap.
+         _Chap._
 
              I.—Loomings
             II.—The Carpet Bag
@@ -642,7 +642,7 @@ whales had been introduced on the stage there.”
 
 “My God! Mr. Chace, what is the matter?” I answered, “we have been
 stove by a whale.”
-                          “_Narrative of the Shipwreck of the Whale Ship
+                          _“Narrative of the Shipwreck of the Whale Ship
                               Essex of Nantucket, which was attacked and
                               finally destroyed by a large Sperm Whale
                               in the Pacific Ocean. By Owen Chace of
@@ -17483,7 +17483,7 @@ hey, Jenny, Jenny! and get your hoe-cake done!”
                          CHAPTER C. LEG AND ARM.
 
          THE PEQUOD, OF NANTUCKET, MEETS THE SAMUEL ENDERBY, OF
-                                 LONDON
+                                LONDON.
 
 
 “Ship, ahoy! Hast seen the White Whale?”
@@ -18340,7 +18340,7 @@ Nantucketer, and a whaleman, you will silently worship there.
 
                                CHAPTER CV.
 
-          DOES THE WHALE’S MAGNITUDE DIMINISH?—WILL HE PERISH?.
+          DOES THE WHALE’S MAGNITUDE DIMINISH?—WILL HE PERISH?
 
 
 Inasmuch, then, as this Leviathan comes floundering down upon us from
